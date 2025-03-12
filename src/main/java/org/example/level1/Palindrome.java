@@ -18,8 +18,14 @@ public class Palindrome {
         System.out.println(s.equals(new StringBuilder(s).reverse().toString()) ? "yes" : "no");
     }
 
+    public boolean isPalindrome(int x) {
+        String s = Integer.toString(x);
+        return s.equals(new StringBuilder(s).reverse().toString());
+    }
+
     public static void main(String[] args) {
         Palindrome palindrome = new Palindrome();
+        palindrome.isPalindrome(121);
         palindrome.decisionPalindromeOptimization("Madam i’m Adam");
     }
 }

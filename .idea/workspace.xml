@@ -4,11 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcc3b619-f43e-4bd9-a376-215d3c9eee83" name="Changes" comment="05.03.25">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/FruitOOP.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/Reverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/Sheet.java" afterDir="false" />
+    <list default="true" id="dcc3b619-f43e-4bd9-a376-215d3c9eee83" name="Changes" comment="10.03.25">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/Number1358.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/ReverseByte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/level1/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/Palindrome.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,17 +57,51 @@
   "keyToString": {
     "Gradle.StepikTasks [:org.example.FizzBuzz.main()].executor": "Run",
     "Gradle.StepikTasks [:org.example.Palindrome.main()].executor": "Run",
+    "Gradle.StepikTasks [:org.example.level1.Number1358.main()].executor": "Run",
     "Gradle.StepikTasks [:org.example.level1.Reverse.main()].executor": "Run",
+    "Gradle.StepikTasks [:org.example.level1.ReverseByte.main()].executor": "Run",
     "Gradle.StepikTasks [:org.example.level1.WithNumber.main()].executor": "Run",
+    "Gradle.StepikTasks [:org.example.level1.maxFib.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/melni/IdeaProjects/StepikTasks/src/main/java/org/example/Main.java"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reverse">
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.level1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.maxFib">
+    <configuration name="Number1358" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.level1.Number1358" />
+      <module name="StepikTasks.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Reverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.level1.Reverse" />
+      <module name="StepikTasks.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseByte" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.level1.ReverseByte" />
       <module name="StepikTasks.main" />
       <extension name="coverage">
         <pattern>
@@ -90,8 +126,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="maxFib" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.level1.maxFib" />
+      <module name="StepikTasks.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.level1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.maxFib" />
+        <item itemvalue="Application.Number1358" />
+        <item itemvalue="Application.ReverseByte" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.WithNumber" />
       </list>
@@ -122,12 +174,21 @@
       <option name="project" value="LOCAL" />
       <updated>1741138370935</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="10.03.25">
+      <option name="closed" value="true" />
+      <created>1741555007811</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741555007811</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="03.03.25" />
     <MESSAGE value="05.03.25" />
-    <option name="LAST_COMMIT_MESSAGE" value="05.03.25" />
+    <MESSAGE value="10.03.25" />
+    <option name="LAST_COMMIT_MESSAGE" value="10.03.25" />
   </component>
 </project>
