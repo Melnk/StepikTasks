@@ -5,8 +5,8 @@ import java.util.*;
 public class Number1358 {
     public int numberOfSubstrings(String s) {
         int[] count = new int[3]; // Массив для подсчета количества 'a', 'b', 'c'
-        int left = 0; // Левый указатель
-        int result = 0; // Результат
+        int left = 0;
+        int result = 0;
 
         //Т.е. мы двигаем правый указатель, пока не найдем все 3 элемента
         //После чего прибавляяем 1 + (кол-во цифр справа)
