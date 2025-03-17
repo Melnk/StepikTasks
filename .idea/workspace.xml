@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dcc3b619-f43e-4bd9-a376-215d3c9eee83" name="Changes" comment="12.03.25 test 3">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/merge21.java" afterDir="false" />
+    <list default="true" id="dcc3b619-f43e-4bd9-a376-215d3c9eee83" name="Changes" comment="21 task in leetcode">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/Alice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/DivideArray2206.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/MyArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/MyIntList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/level1/ZeroArray3356.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,22 +54,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Gradle.StepikTasks [:org.example.FizzBuzz.main()].executor": "Run",
-    "Gradle.StepikTasks [:org.example.Palindrome.main()].executor": "Run",
-    "Gradle.StepikTasks [:org.example.level1.Number1358.main()].executor": "Run",
-    "Gradle.StepikTasks [:org.example.level1.Reverse.main()].executor": "Run",
-    "Gradle.StepikTasks [:org.example.level1.ReverseByte.main()].executor": "Run",
-    "Gradle.StepikTasks [:org.example.level1.Test2.main()].executor": "Run",
-    "Gradle.StepikTasks [:org.example.level1.WithNumber.main()].executor": "Run",
-    "Gradle.StepikTasks [:org.example.level1.maxFib.main()].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/Users/melni/IdeaProjects/StepikTasks/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Gradle.StepikTasks [:org.example.FizzBuzz.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StepikTasks [:org.example.Palindrome.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StepikTasks [:org.example.level1.Number1358.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StepikTasks [:org.example.level1.Reverse.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StepikTasks [:org.example.level1.ReverseByte.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StepikTasks [:org.example.level1.Test2.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StepikTasks [:org.example.level1.WithNumber.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.StepikTasks [:org.example.level1.maxFib.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/melni/IdeaProjects/StepikTasks/src/main/java/org/example/Main.java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="org.example.level1" />
@@ -219,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741786997690</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="21 task in leetcode">
+      <option name="closed" value="true" />
+      <created>1741794909472</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741794909472</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -230,6 +243,7 @@
     <MESSAGE value="12.03.25 test" />
     <MESSAGE value="12.03.25 test 2" />
     <MESSAGE value="12.03.25 test 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="12.03.25 test 3" />
+    <MESSAGE value="21 task in leetcode" />
+    <option name="LAST_COMMIT_MESSAGE" value="21 task in leetcode" />
   </component>
 </project>
